@@ -39,10 +39,3 @@ WHERE CategoryID = 1 AND UnitPrice > 15
 
 Напиши свои варианты запросов — проверю и подскажу, если что-то не так.
 */
-
--- 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
-
--- PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
-
--- 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
--- xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
